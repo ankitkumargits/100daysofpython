@@ -1,0 +1,1 @@
+12345678910this is a file of the same name as the current directory
